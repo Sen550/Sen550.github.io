@@ -23,7 +23,7 @@ email: senw051207@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hai :3
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Sen550.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sen550.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: sen_h_wang
 github_username:  Sen550
 
